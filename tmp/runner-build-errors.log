@@ -1,0 +1,12 @@
+can't load package: package github.com/hfogelberg/cloud-storage: 
+main.go:8:2: expected 'STRING', found 'import'
+main.go:16:2: expected 'STRING', found 'if'
+main.go:18:3: expected 'STRING', found 'return'
+main.go:19:2: expected 'STRING', found '}'
+main.go:22:6: expected 'STRING', found ':='
+main.go:24:2: expected 'STRING', found 'if'
+main.go:26:3: expected 'STRING', found 'return'
+main.go:27:2: expected 'STRING', found '}'
+main.go:29:5: expected 'STRING', found '.'
+main.go:34:2: expected 'STRING', found 'if'
+main.go:36:3: expected 'STRING', found 'return'
